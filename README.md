@@ -30,3 +30,10 @@ Currently building hands-on experience in:
 - Networking labs and troubleshooting
 - Cybersecurity awareness practices
 - IT infrastructure fundamentals
+  
+## 📂 Featured Projects
+
+- Linux-Practice-Notes
+- Networking-Fundamentals-Lab
+- Cybersecurity-Awareness-Guide
+- IT-Support-Troubleshooting-Guide
