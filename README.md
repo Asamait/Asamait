@@ -21,3 +21,12 @@ Here are some ideas to get you started:
 - Cybersecurity Basics
 - IT Support & Troubleshooting
 - Technical Documentation
+  
+## 🌱 Learning Journey
+
+Currently building hands-on experience in:
+
+- Linux system administration
+- Networking labs and troubleshooting
+- Cybersecurity awareness practices
+- IT infrastructure fundamentals
