@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 💻 Tech Stack
+
+- Linux
+- Networking Fundamentals
+- Cybersecurity Basics
+- IT Support & Troubleshooting
+- Technical Documentation
